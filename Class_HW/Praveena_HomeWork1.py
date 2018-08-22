@@ -1,4 +1,4 @@
-# Program to calculate number of steps to obtain keprekar constant
+# Program to calculate number of steps to obtain keprekar constant#
 
 count = 0
 val = input("Enter a number:")
