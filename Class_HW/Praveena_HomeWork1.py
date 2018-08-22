@@ -1,4 +1,4 @@
-
+# Calculates the keprekar constant
 count = 0
 val = input("Enter a number:")
 if (len(val) < 4):
